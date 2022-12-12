@@ -10,6 +10,8 @@ redirect_from:
 ## About me
 I am a fifth-year PhD student in mechanical and aerospace engineering at [University of Virginia](https://www.virginia.edu/). My advisor is [Baoxing Xu](https://xugroup.weebly.com/). My research is centered around designing metastructures and developing numerical models under mechanical framework to analyze physical properties of soft-hard integrated materials and structures.
 
+In the summer of 2022, I joined [Western Digital](https://www.westerndigital.com/) as a research intern. I worked with the packaging team where my research interest was on solid drive drop test. I developed a criteria bt ultilizing the simulation results from FEA to predict the corresponding test performance with neural networks, which allow the team to easily know if the design meet our customers' requirement.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
