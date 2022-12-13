@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Find my CV [here](https://haozhezhang6.github.io/Haozhe_Zhang_CV.pdf) (last update: Nov. 2022).
+Find my CV [here](https://haozhezhang6.github.io/CV.pdf) (last update: Nov. 2022).
 
