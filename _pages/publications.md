@@ -1,8 +1,8 @@
 
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /Publications/
+title: Publications
 description: Journal publications in reversed chronological order.
 years: [2022, 2021, 2019]
 nav: true
