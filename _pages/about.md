@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hii, welcome to my page! :wave:
+Hii, welcome to my page! 👋
 
 I am a fifth-year PhD student in mechanical and aerospace engineering at [University of Virginia](https://www.virginia.edu/). My advisor is [Baoxing Xu](https://xugroup.weebly.com/). My research is centered around designing metastructures and developing numerical models under mechanical framework to analyze physical properties of soft-hard integrated materials and structures. 
 
