@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 ## About me
-I am a fifth-year PhD student in mechanical and aerospace engineering at [University of Virginia](https://www.virginia.edu/). My advisor is [Baoxing Xu](https://xugroup.weebly.com/). My research is centered around designing metastructures and developing numerical models under mechanical framework to analyze physical properties of soft-hard integrated materials and structures.
+Hi, welcome to my page! :wave:
 
-In the summer of 2022, I joined [Western Digital](https://www.westerndigital.com/) as a research intern. Worked with the packaging R&D team, my research was focus on solid drive drop tests. I developed a criteria bt ultilizing the simulation results from FEA to predict the corresponding test performance with neural networks, which allow the team to easily know if the design meet our customers' requirement.
+I am a fifth-year PhD student in mechanical and aerospace engineering at [University of Virginia](https://www.virginia.edu/). My advisor is [Baoxing Xu](https://xugroup.weebly.com/). My research is centered around designing metastructures and developing numerical models under mechanical framework to analyze physical properties of soft-hard integrated materials and structures. And I am actively seeking jobs in both industry and academia.
+
+In the summer of 2022, I joined [Western Digital](https://www.westerndigital.com/) as a research intern. Worked with the packaging R&D team, my research was focus on solid drive drop tests. I developed a criteria using the simulation results from FEA to predict the corresponding test performance with neural networks, which allow the team to easily know if the design meet our customers' requirement.
 
 Before went to UVa, I graduated from the [University of Science and Technology of China](http://en.ustc.edu.cn/) with a B.S. degree in theoretical and applied mechanics, where my advisor was [Hongyuan Jiang](http://staff.ustc.edu.cn/~jianghy/index.html). And I was also a summer intern as [NML Lab](https://spot.colorado.edu/~rolo5514/) at University of Colorado, Boulder. 
 
-A data-driven personal website
+## About me
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
